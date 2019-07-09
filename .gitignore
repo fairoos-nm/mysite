@@ -1,0 +1,15 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+
+
+# Python # 
+*.py[cod] 
+*$py.class
+
+#emacs
+*~
+\#*\#
